@@ -1,0 +1,1 @@
+export const getThemeModeSelector = (state) => state.theme.theme;           
